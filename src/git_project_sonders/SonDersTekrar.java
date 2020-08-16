@@ -6,7 +6,7 @@ public class SonDersTekrar {
 		System.out.println("03.55 Master branch");
 		System.out.println("04.05 Feature branch");
 		for(int i=0;i<2;i++) {
-			System.out.println("burga");
+			System.out.println("bugra");
 			
 		}
 	}
